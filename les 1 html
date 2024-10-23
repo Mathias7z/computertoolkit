@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title> Dit is de titel van de pagina</title>
+</head>
+
+<body style="background-color: blue;" class="bodyclass">
+    <!--alles hiertusssen is commentaar
+        ge kunt veel regels type -->
+
+    <p>dit is een alinea</p>
+    <p> dit is er ook een</p>
+    <p> dit is de laatste</p>
+
+    <h1>Dit is de grootste titel</h1>
+    <h2>dit is een kleinere</h2>
+    <h3> dit is nog kleiner</h3>
+    <h4>en nog kleiner</h4>
+
+    <!--<br> is zachte enter (shift enter) zelfde alinea andere lijn-->
+    <!-- &nbsp is een geforceerde spatie-->
+        Dit is tekst met een zin-einde <br>
+        met veel spat&nbsp;ies en een horizontalen lijn.<hr>
+
+        <p>
+            <b> Deze tekst is vet</b><br>
+            <i> Deze tekst is schuin gedrukt</i><br>
+            <u> Deze tekst is onderlijnd</u><br>
+            <b><i><u>deze tekst is een combinatie van ze 3</u></i></b>
+        </p>
+
+        <strong> Deze tekst is ook vet</strong>
+        <em>Deze tekst is ook schuin</em>
+
+        <!--linken van verschillende dingen: hyperlinks-->
+        <a href="test.html"> Klik hier</a> om een nieuw bestand te openen<br>
+
+        <!--hyperlink naar foto's-->
+
+        <a href="download.jpg" target="_blank"> Klik hier</a> voor een foto van een hond.
+        
+
+</body>
+
+</html>

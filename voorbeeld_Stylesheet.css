@@ -1,0 +1,44 @@
+/*volgorde van belangerijkheid: 1 INLINE , 2 internal , 3 external 4 default*/
+body{
+    background-color: bisque;
+    border: red;
+    border-width: 5px;
+    border-style: dashed;
+    
+    background-image: url("images/jpg/background.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+
+    background:linear-gradient(#e66465,#919891)
+}
+p{
+    color: blueviolet;
+    font-weight: bold;
+}
+
+/*elementen groeperen*/
+h1,h2,h3{
+    text-align:center;
+    color:cadetblue;
+}
+
+.voorbeeld{
+    color: chocolate;
+}
+
+div.voorbeeld3{
+    text-align: Right;
+}
+
+p#lente{
+    color:chartreuse;
+}
+a:link,a:visited{
+    color: chartreuse;
+}
+a:hover{
+    color: chocolate;
+}
+a:active{
+    color: blue;
+}
